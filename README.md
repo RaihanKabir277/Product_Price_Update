@@ -23,6 +23,14 @@ It monitors the live product price from Amazon and automatically sends an **emai
 
 ---
 
+## 📧 Example Email Alert
+- Subject: Amazon Price Alert!
+
+- Echo Dot (5th Gen) is on sale for $68.99
+- https://www.amazon.com/dp/B075CYMYK6
+
+---
+
 ## ⚙️ Setup Instructions
 
 ### 1️⃣ Clone the repository
@@ -30,3 +38,11 @@ It monitors the live product price from Amazon and automatically sends an **emai
 ```bash
 git clone https://github.com/<your-username>/product_price_update.git
 cd product_price_update
+
+---
+
+✨ Author
+
+Raihan Kabir
+🎓 Green University of Bangladesh
+💻 Passionate about Data Science, Machine Learning, and Automation
